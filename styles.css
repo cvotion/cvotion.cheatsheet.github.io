@@ -36,3 +36,61 @@ h1,h2,thead{
     text-align: center;
     color: hsl(267, 73%, 3%);
   }
+
+
+pre code {
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+    float: right;
+    margin-right: 400px;
+    margin-top: 15px;
+  }
+
+  .button {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 0px 5px;
+    float: left;
+    margin-left: 400px;
+    margin-top: 100px;
+    background-color: hsl(198, 66%, 62%);
+  }
+   
+  .button:hover {
+    cursor: pointer;
+  }
+   
+  .button:active {
+    margin-top: 105px;
+    color: black;
+    box-shadow: 0px 0px;
+  }
+
+  .section-three {
+    text-align: center;
+    margin-top: 350px;
+  }
+
+  .flat-button {
+    border: 1px solid black;
+    padding: 5px;
+    color: black;
+    background-color: hsl(198, 66%, 62%);
+    text-decoration: none;
+    float: left;
+    margin-left: 400px;
+    margin-top: 200px;
+  }
+  
+  .flat-button:active{
+    background-color: hsl(198, 81%, 69%);
+    color: #fff;
+  }
+
+  .flat-button:hover {
+    cursor: pointer;
+  }
