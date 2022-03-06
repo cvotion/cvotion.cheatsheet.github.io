@@ -1,0 +1,38 @@
+h1,h2,thead{
+    font-family: 'Times New Roman';
+  }
+  body {
+    background-color: hsl(38, 44%, 90%);
+  }
+  
+  thead {
+    background-color: hsl(40, 10%, 40%);
+  }
+  
+  table{
+    margin: auto;
+    background-color: hsl(267, 73%, 3%);
+  }
+  tr, table{
+    border: 1px solid black;
+  }
+  tbody{
+    background-color: hsl(40, 12%, 59%);
+    font-family: serif;
+  }
+  
+  td {
+    padding: 10px;
+  }
+  
+  h1 {
+    color: hsl(198, 66%, 62%);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  
+  h2{
+    text-align: center;
+    color: hsl(267, 73%, 3%);
+  }
